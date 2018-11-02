@@ -565,7 +565,7 @@ PlayerSettings:
   m_MobileRenderingPath: 1
   metroPackageName: mr_100
   metroPackageVersion: 
-  metroCertificatePath: C:\Users\zeyuz\Workspace\VR\mr_100\Assets\WSATestCertificate.pfx
+  metroCertificatePath: Assets/WSATestCertificate.pfx
   metroCertificatePassword: 
   metroCertificateSubject: DefaultCompany
   metroCertificateIssuer: DefaultCompany
